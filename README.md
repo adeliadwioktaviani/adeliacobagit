@@ -1,0 +1,2 @@
+# adeliacobagit
+Praktikum Metode Komputasi
