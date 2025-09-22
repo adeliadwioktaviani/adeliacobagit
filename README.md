@@ -1,16 +1,23 @@
-# Hai, saya Adelia 👋
+🌸 Hi, I’m Adelia! 🌸
+👩‍🎓 Mahasiswa yang sedang seru-serunya menjelajahi dunia coding & komputasi
+💻 Belajar step by step tentang pemrograman, analisis data, dan simulasi numerik
 
-🎓 Mahasiswa Geofisika, Semester 3  
-💻 Sedang belajar *Metode Komputasi*  
-📺 Hobi menonton series  
 
-## 🔭 Proyek & Pembelajaran
-- Sedang mengerjakan latihan coding dan analisis data geofisika  
-- Bereksperimen dengan Python untuk simulasi dan komputasi numerik  
+🚀 Apa yang Lagi Aku Kerjain
+🔧 Latihan Python untuk mini-proyek & eksperimen
+📝 Mencatat perjalanan belajar sebagai dokumentasi pribadi
+🌐 Membangun portofolio sederhana di GitHub
 
-## ⚡ Skill
-- Python, MATLAB  
-- Analisis data, komputasi numerik, pemodelan sederhana  
 
-## 📫 Kontak
-- Instagram : delll.adelia
+🛠️ Skill & Tools
+Bahasa: Python, MATLAB
+Tools favorit: Jupyter Notebook, Git, VS Code
+Fokus belajar: pemrograman dasar, data analysis, komputasi numerik
+
+
+💡 Fun Side of Me
+🎬 Suka binge-watching series buat hiburan & inspirasi
+✍️ Hobi bikin catatan rapi biar gampang dipelajari lagi
+🌟 Percaya kalau belajar itu proses, bukan hasil instan
+
+✨ This README is part of my learning journey — I’ll keep improving it as I grow! ✨
